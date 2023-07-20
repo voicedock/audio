@@ -2,7 +2,7 @@
 Audio utilities for golang
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/voicedock/audio)](https://goreportcard.com/report/github.com/voicedock/audio)
-[![codecov](https://codecov.io/gh/voicedock/audio/branch/master/graph/badge.svg?token=53NH949TQY)](https://codecov.io/gh/voicedock/audio)
+[![codecov](https://codecov.io/gh/voicedock/audio/branch/main/graph/badge.svg?token=QKQK1QZQWJ)](https://codecov.io/gh/voicedock/audio)
 [![Go Reference](https://pkg.go.dev/badge/github.com/voicedock/audio.svg)](https://pkg.go.dev/github.com/voicedock/audio)
 [![Release](https://img.shields.io/github/release/voicedock/audio.svg?style=flat-square)](https://github.com/voicedock/audio/releases/latest)
 
